@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+#header-nav {
+    color: black;
+    background-color: rgb(155, 155, 155);
+    border-radius: 0;
+    border: 0;
+}
+
+#navbar-collapse-div {
+    border: 0;
+    padding: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+.nav {
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    margin: 0 auto 0;
+}
+
+.nav .divider {
+    height: 1px;
+    background-color: black;
+}
+
+#main-grid {
+    height: 1000px;
+    text-align: center;
+    background-color: rgb(155, 155, 155);
+    margin-left: 50px;
+    margin-right: 50px;
+}
